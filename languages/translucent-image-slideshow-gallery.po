@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Translucent image slideshow gallery\n"
+"POT-Creation-Date: 2019-08-12 00:22+0800\n"
+"PO-Revision-Date: 2019-08-12 00:22+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../translucent-image-slideshow-gallery.php:74
+#: ../translucent-image-slideshow-gallery.php:396
+msgid "Folder Does Not Exist"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:125
+#: ../translucent-image-slideshow-gallery.php:135
+#: ../translucent-image-slideshow-gallery.php:140
+#: ../translucent-image-slideshow-gallery.php:405
+#: ../translucent-image-slideshow-gallery.php:406
+msgid "Translucent slideshow"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:127
+#: ../translucent-image-slideshow-gallery.php:297
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:128
+#: ../translucent-image-slideshow-gallery.php:298
+msgid "click here"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:156
+msgid "Translucent image slideshow gallery"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:219
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:225
+msgid "Widget"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:227
+msgid "Title:"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:233
+msgid "Width:"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:234
+msgid "Height:"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:235
+msgid "Speed:"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:236
+msgid "Delay:"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:246
+#: ../translucent-image-slideshow-gallery.php:255
+#: ../translucent-image-slideshow-gallery.php:264
+#: ../translucent-image-slideshow-gallery.php:273
+#: ../translucent-image-slideshow-gallery.php:282
+msgid "Image directory:"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:247
+#: ../translucent-image-slideshow-gallery.php:256
+#: ../translucent-image-slideshow-gallery.php:265
+#: ../translucent-image-slideshow-gallery.php:274
+#: ../translucent-image-slideshow-gallery.php:283
+msgid "Short code:"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:248
+#: ../translucent-image-slideshow-gallery.php:257
+#: ../translucent-image-slideshow-gallery.php:266
+#: ../translucent-image-slideshow-gallery.php:275
+#: ../translucent-image-slideshow-gallery.php:284
+msgid "Image hyper link:"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:252
+msgid "Short code 1"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:261
+msgid "Short code 2"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:270
+msgid "Short code 3"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:279
+msgid "Short code 4"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:290
+msgid "Submit"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:291
+msgid "Help"
+msgstr ""
+
+#: ../translucent-image-slideshow-gallery.php:296
+msgid ""
+"(Note: Dont upload your original images into plugin folder. if you upload "
+"the images into plugin folder, you may lose the images when you update the "
+"plugin to next version. Thus upload your images in \"wp-content/uploads/your-"
+"folder/\" folder and use the folder path as per the example in \"Image "
+"Directory\" text box.)"
+msgstr ""
